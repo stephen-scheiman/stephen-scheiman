@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stephen-scheiman
-- 👀 I’m interested in working for myself.
+- 👀 I’m interested in DevOps, IT Automation.
 - 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on homework assignments
 - 📫 How to reach me sbscheiman@gmail.com
