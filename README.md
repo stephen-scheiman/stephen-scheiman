@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stephen-scheiman
-- 👀 I’m interested in DevOps, IT Automation.
-- 🌱 I’m currently learning full stack web development
+- 👀 I’m interested in DevOps, IT Automation and Data Analytics
+- 🌱 I’m currently learning python for data analytics
 - 💞️ I’m looking to collaborate on homework assignments
 - 📫 How to reach me sbscheiman@gmail.com
 
